@@ -1,0 +1,7 @@
+Í
+,TailSpin.SpaceGame.Web.Models.ErrorViewModelobjectQ
+ErrorViewModel()=TailSpin.SpaceGame.Web.Models.ErrorViewModel.ErrorViewModel()K
+RequestId.get:TailSpin.SpaceGame.Web.Models.ErrorViewModel.RequestId.getK
+RequestId.set:TailSpin.SpaceGame.Web.Models.ErrorViewModel.RequestId.setS
+ShowRequestId.get>TailSpin.SpaceGame.Web.Models.ErrorViewModel.ShowRequestId.getS
+ShowRequestId.set>TailSpin.SpaceGame.Web.Models.ErrorViewModel.ShowRequestId.set

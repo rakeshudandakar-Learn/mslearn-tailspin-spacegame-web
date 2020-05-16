@@ -1,0 +1,143 @@
+
+ITailSpin.SpaceGame.Web.Controllers.HomeController.Profile(string, string)u
+kC:\Workspace\AzureLearn\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Controllers\HomeController.css) s(0"4*
+0*
+1
+2*≤
+1‡›
+u
+kC:\Workspace\AzureLearn\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Controllers\HomeController.csx x(v4
+%0.TailSpin.SpaceGame.Web.Models.ProfileViewModel".TailSpin.SpaceGame.Web.Models.ProfileViewModelÅ
+˛
+u
+kC:\Workspace\AzureLearn\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Controllers\HomeController.csx  x(0
+
+%1void"ATailSpin.SpaceGame.Web.Models.ProfileViewModel.ProfileViewModel()*6
+4
+%0.TailSpin.SpaceGame.Web.Models.ProfileViewModel∏
+µ
+u
+kC:\Workspace\AzureLearn\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Controllers\HomeController.csxC x(V5
+%2/TailSpin.SpaceGame.Web.IDocumentDBRepository<T>"__id**}3
+1TailSpin.SpaceGame.Web.Controllers.HomeController"F
+_profileRespository/TailSpin.SpaceGame.Web.IDocumentDBRepository<T>À»
+u
+kC:\Workspace\AzureLearn\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Controllers\HomeController.csxC x(g*
+%3$System.Threading.Tasks.Task<TResult>"DTailSpin.SpaceGame.Web.IDocumentDBRepository<T>.GetItemAsync(string)*7
+5
+%2/TailSpin.SpaceGame.Web.IDocumentDBRepository<T>*
+
+idstring2GetItemAsync(string)Ú
+Ô
+u
+kC:\Workspace\AzureLearn\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Controllers\HomeController.csx3 x(gh
+4
+%0.TailSpin.SpaceGame.Web.Models.ProfileViewModel"0
+Profile%TailSpin.SpaceGame.Web.Models.Profile"__id*
+""⁄
+◊
+u
+kC:\Workspace\AzureLearn\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Controllers\HomeController.csxi x(tF
+4
+%0.TailSpin.SpaceGame.Web.Models.ProfileViewModel"
+Rankstring"__id*
+
+rankstringc
+a
+%4object"__id*K*I3
+1TailSpin.SpaceGame.Web.Controllers.HomeController"
+ViewDataobjectb
+`
+%5object"__id*J*H3
+1TailSpin.SpaceGame.Web.Controllers.HomeController"
+ViewBagobjectc
+a
+%6object"__id*K*I3
+1TailSpin.SpaceGame.Web.Controllers.HomeController"
+TempDataobject•
+¢+
+%7%Microsoft.AspNetCore.Http.HttpContext"__id*m*k3
+1TailSpin.SpaceGame.Web.Controllers.HomeController"4
+HttpContext%Microsoft.AspNetCore.Http.HttpContextX
+V
+%8object"__id*@*>
++
+%7%Microsoft.AspNetCore.Http.HttpContext"
+Itemsobject≤
+Ø
+u
+kC:\Workspace\AzureLearn\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Controllers\HomeController.csx x(w
+
+%9void")tailspin.spacegame.web/views/home/profile*
+
+%10*6
+4
+%0.TailSpin.SpaceGame.Web.Models.ProfileViewModel*
+
+%4object*
+
+%5object*
+
+%6object*
+
+%8object"Ö
+u
+kC:\Workspace\AzureLearn\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Controllers\HomeController.csx x(x
+
+
+%9void*¸
+2¬ø
+u
+kC:\Workspace\AzureLearn\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Controllers\HomeController.cs| |(,6
+%11/Microsoft.AspNetCore.Mvc.RedirectToActionResult"@Microsoft.AspNetCore.Mvc.ControllerBase.RedirectToAction(string)*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*
+/2RedirectToAction(string)"±
+u
+kC:\Workspace\AzureLearn\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Controllers\HomeController.cs| |(-8
+6
+%11/Microsoft.AspNetCore.Mvc.RedirectToActionResult*í
+3"å
+u
+kC:\Workspace\AzureLearn\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Controllers\HomeController.cs~ ~(	
+implicit return*Ã
+4±
+Æ
+u
+kC:\Workspace\AzureLearn\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Controllers\HomeController.css) s(0
+%12"__entrypoint*
+
+idstring*
+
+rankstring·
+ﬁ
+u
+kC:\Workspace\AzureLearn\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Controllers\HomeController.csr	 r(
+%13"
+__annotate*B@
+>Microsoft.AspNetCore.Mvc.RouteAttribute.RouteAttribute(string)*
+
+idstringü
+ú
+u
+kC:\Workspace\AzureLearn\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Controllers\HomeController.css1 s(:
+idstring"__annotation*
+
+%13„
+‡
+u
+kC:\Workspace\AzureLearn\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Controllers\HomeController.csr	 r(
+%14"
+__annotate*B@
+>Microsoft.AspNetCore.Mvc.RouteAttribute.RouteAttribute(string)*
+
+rankstring°
+û
+u
+kC:\Workspace\AzureLearn\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Controllers\HomeController.css< s(J
+rankstring"__annotation*
+
+%14*
+0:
+idstring:
+rankstringB53
+1TailSpin.SpaceGame.Web.Controllers.HomeController

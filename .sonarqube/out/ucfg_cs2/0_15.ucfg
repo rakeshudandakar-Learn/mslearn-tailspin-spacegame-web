@@ -1,0 +1,120 @@
+
+9TailSpin.SpaceGame.Web.Controllers.HomeController.Error()w
+kC:\Workspace\AzureLearn\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Controllers\HomeController.csÜ Ü(""6*ÿ
+0ﬁ€
+w
+kC:\Workspace\AzureLearn\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Controllers\HomeController.csà à(n2
+%0,TailSpin.SpaceGame.Web.Models.ErrorViewModel",TailSpin.SpaceGame.Web.Models.ErrorViewModel˝
+˙
+w
+kC:\Workspace\AzureLearn\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Controllers\HomeController.csà à(*
+
+%1void"=TailSpin.SpaceGame.Web.Models.ErrorViewModel.ErrorViewModel()*4
+2
+%0,TailSpin.SpaceGame.Web.Models.ErrorViewModelÈ
+Ê
+w
+kC:\Workspace\AzureLearn\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Controllers\HomeController.csà9 à(I!
+%2System.Diagnostics.Activity"'System.Diagnostics.Activity.Current.get*"
+System.Diagnostics.Activity*
+1
+2*ﬁ
+2”
+–
+w
+kC:\Workspace\AzureLearn\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Controllers\HomeController.csàK à(M
+%3string""System.Diagnostics.Activity.Id.get*#
+!
+%2System.Diagnostics.Activity*
+1*
+1*
+3
+4*◊
+3è
+å
+w
+kC:\Workspace\AzureLearn\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Controllers\HomeController.csàQ à(\+
+%7%Microsoft.AspNetCore.Http.HttpContext"7Microsoft.AspNetCore.Mvc.ControllerBase.HttpContext.get*+)
+'Microsoft.AspNetCore.Mvc.ControllerBaseÙ
+Ò
+w
+kC:\Workspace\AzureLearn\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Controllers\HomeController.csàQ à(l
+%8string"9Microsoft.AspNetCore.Http.HttpContext.TraceIdentifier.get*-
++
+%7%Microsoft.AspNetCore.Http.HttpContext†
+ù
+w
+kC:\Workspace\AzureLearn\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Controllers\HomeController.csàQ à(l
+%6string"__id*
+
+%8string†
+ù
+w
+kC:\Workspace\AzureLearn\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Controllers\HomeController.csàQ à(l
+%4string"__id*
+
+%6string*
+4*ã
+
+4ä
+á
+w
+kC:\Workspace\AzureLearn\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Controllers\HomeController.csà- à(l
+
+%9void":TailSpin.SpaceGame.Web.Models.ErrorViewModel.RequestId.set*4
+2
+%0,TailSpin.SpaceGame.Web.Models.ErrorViewModel*
+
+%4stringd
+b
+%10object"__id*K*I3
+1TailSpin.SpaceGame.Web.Controllers.HomeController"
+ViewDataobjectc
+a
+%11object"__id*J*H3
+1TailSpin.SpaceGame.Web.Controllers.HomeController"
+ViewBagobjectd
+b
+%12object"__id*K*I3
+1TailSpin.SpaceGame.Web.Controllers.HomeController"
+TempDataobject¶
+£,
+%13%Microsoft.AspNetCore.Http.HttpContext"__id*m*k3
+1TailSpin.SpaceGame.Web.Controllers.HomeController"4
+HttpContext%Microsoft.AspNetCore.Http.HttpContextZ
+X
+%14object"__id*A*?
+,
+%13%Microsoft.AspNetCore.Http.HttpContext"
+Itemsobject∑
+¥
+w
+kC:\Workspace\AzureLearn\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Controllers\HomeController.csà à(o
+%15void")tailspin.spacegame.web/views/shared/error*
+
+%16*4
+2
+%0,TailSpin.SpaceGame.Web.Models.ErrorViewModel*
+
+%10object*
+
+%11object*
+
+%12object*
+
+%14object"à
+w
+kC:\Workspace\AzureLearn\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Controllers\HomeController.csà à(p
+
+%15void*î
+5"é
+w
+kC:\Workspace\AzureLearn\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Controllers\HomeController.csâ â(	
+implicit return*ú
+6ë
+é
+w
+kC:\Workspace\AzureLearn\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Controllers\HomeController.csÜ Ü("
+%17"__entrypoint*
+0B53
+1TailSpin.SpaceGame.Web.Controllers.HomeController
